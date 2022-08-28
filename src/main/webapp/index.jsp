@@ -42,7 +42,6 @@
       <br>
       <span class="badge badge-warning">Python</span>
       <!-- You only need to change these information, ends here! -->
-      
 
     </div>
     <!-- The content of the website ends here! -->
